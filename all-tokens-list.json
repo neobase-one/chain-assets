@@ -1,0 +1,77 @@
+[
+  {
+    "name": "ATOM",
+    "address": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/atom/atom.webp"
+  },
+  {
+    "name": "ETH",
+    "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/eth/eth.webp"
+  },
+  {
+    "name": "NOTE",
+    "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/note/note.webp"
+  },
+  {
+    "name": "WCANTO",
+    "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/wcanto/wcanto.webp"
+  },
+  {
+    "name": "USDC",
+    "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/usdc/usdc.webp"
+  },
+  {
+    "name": "USDT",
+    "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/usdt/usdt.webp"
+  },
+  {
+    "name": "OMNI",
+    "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/omni/omni.webp"
+  },
+  {
+    "name": "KANTO",
+    "address": "0x566a5BAb30cC8a62509eF0928A0fA4C97b0e873a",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/kanto/kanto.webp"
+  },
+  {
+    "name": "CAD",
+    "address": "0x8F20150205165C31D9b29C55a7B01F4911396306",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/cad/cad.webp"
+  },
+  {
+    "name": "cNOTE",
+    "address": "0xEe602429Ef7eCe0a13e4FfE8dBC16e101049504C",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/cnote/cnote.webp"
+  },
+  {
+    "name": "cINU",
+    "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/cinu/cinu.webp"
+  },
+  {
+    "name": "USYC",
+    "address": "0xFb8255f0De21AcEBf490F1DF6F0BDd48CC1df03B",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/usyc/usyc.webp"
+  },
+  {
+    "name": "fBILL",
+    "address": "0x79ECCE8E2D17603877Ff15BC29804CbCB590EC08",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/fbill/fbill.webp"
+  },
+  {
+    "name": "ifBILL",
+    "address": "0x45bafad5a6a531Bc18Cf6CE5B02C58eA4D20589b",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/ifBILL/ifBILL.webp"
+  },
+  {
+    "name": "TOPG",
+    "address": "0xe350b49e52c9d865735BFD77c956f64585Be7583",
+    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/topg/topg.webp"
+  }
+]
