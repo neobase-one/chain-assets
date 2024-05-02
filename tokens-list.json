@@ -98,9 +98,9 @@
       "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/btc/btc.webp"
     },
     {
-      "name": "cNote",
+      "name": "cnote",
       "address": "0xEe602429Ef7eCe0a13e4FfE8dBC16e101049504C",
-      "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/cNote/cNote.webp"
+      "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/cnote/cnote.webp"
     },
     {
       "name": "cinu",
@@ -156,6 +156,11 @@
       "name": "wst-eth",
       "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/wbtc/wbtc.webp"
+    },
+    {
+      "name": "fbill",
+      "address": "0x79ECCE8E2D17603877Ff15BC29804CbCB590EC08",
+      "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/fbill/fbill.webp"
     }
   ]
 }
