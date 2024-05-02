@@ -1,15 +1,5 @@
 # chain-assets
 
-To install dependencies:
+To get any svg asset in raw form:
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+https://raw.githubusercontent.com/neobase-one/chain-assets/main/{PATH_TO_ASSET}
