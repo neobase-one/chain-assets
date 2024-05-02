@@ -68,10 +68,5 @@
     "name": "ifBILL",
     "address": "0x45bafad5a6a531Bc18Cf6CE5B02C58eA4D20589b",
     "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/ifBILL/ifBILL.webp"
-  },
-  {
-    "name": "TOPG",
-    "address": "0xe350b49e52c9d865735BFD77c956f64585Be7583",
-    "image": "https://raw.githubusercontent.com/neobase-one/chain-assets/main/images/topg/topg.webp"
   }
 ]
