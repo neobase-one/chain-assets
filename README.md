@@ -1,6 +1,6 @@
 # Chain Assets
 
-We collected the logos of most common cryptos. It's free, you can use the assets too 🦾
+We collected the logos of the most common cryptos. It's free, you can use the assets, too 🦾
 
 ## How to Use
 
