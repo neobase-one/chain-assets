@@ -1,0 +1,22 @@
+[
+    {
+      "name": "canto/atom", 
+      "address": "0x30838619c55b787bafc3a4cd9aea851c1cfb7b19"
+    },
+    {
+        "name": "canto/note", 
+        "address": "0x1d20635535307208919f0b67c3b2065965a85aa9"
+      },
+      {
+        "name": "canto/eth", 
+        "address": "0x216400ba362d8fce640085755e47075109718c8b"
+      },
+      {
+        "name": "note/usdc", 
+        "address": "0x9571997a66d63958e1b3de9647c22bd6b9e7228c"
+      },
+      {
+        "name": "note/usdt", 
+        "address": "0x35db1f3a6a6f07f82c76fcc415db6cfb1a7df833"
+      }
+  ]
